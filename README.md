@@ -74,3 +74,4 @@ To maintain consistent coding styles across various editors and IDEs, we have in
 },
 ```
 # fanshawe-shopify
+# fanshawe-shopify
