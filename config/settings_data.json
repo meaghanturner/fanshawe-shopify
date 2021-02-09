@@ -1,12 +1,12 @@
 {
   "current": {
     "color_body_bg": "#ffffff",
-    "color_headings": "#321863",
+    "color_headings": "#9c0c0c",
     "color_body_text": "#565656",
-    "color_borders": "#5dd2b4",
+    "color_borders": "#878787",
     "color_button_text": "#ffffff",
-    "color_primary": "#7737BD",
-    "color_secondary": "#058677",
+    "color_primary": "#0f3aa9",
+    "color_secondary": "#7e17bf",
     "color_product_background": "#fff4f6",
     "color_sale_tag": "#e80970",
     "color_input": "#f6f6f6",
